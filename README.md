@@ -1,4 +1,4 @@
-# MovieRecommender
+# MovieRecommendation System
 
 As a group, we built a movie recommendation system using collaborative filtering. This technique employs **neural networks** to learn the similarities between user and movie embeddings based on their interactions, and uses this information to provide personalized recommendations. 
 
